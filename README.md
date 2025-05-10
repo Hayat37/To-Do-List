@@ -14,6 +14,3 @@ A simple To-Do List application built in C++ that allows users to add, view, edi
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/YourUsername/To-Do-List.git
-cd To-Do-List
-g++ main.cpp -o todo
-./todo
